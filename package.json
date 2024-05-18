@@ -11,7 +11,6 @@
   "author": "Molar..... HI",
   "license": "ISC",
   "dependencies": {
-    "file-system": "^1.2.2",
     "prompt-sync": "^4.2.0"
   }
 }
